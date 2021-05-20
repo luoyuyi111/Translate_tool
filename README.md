@@ -1,4 +1,4 @@
-##功能介绍
+## 功能介绍
 &emsp;&emsp;用于格力MQTT调试，将cols和dat数组对应起来，一目了然。其次也是使用PYQT的一次尝试
 ### 使用条件
 &emsp;&emsp;结合MQTT.fx的工具，订阅status主题，数据是服务器已解密的。
